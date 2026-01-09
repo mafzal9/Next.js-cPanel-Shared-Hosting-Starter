@@ -1,7 +1,7 @@
 # Next.js on cPanel Shared Hosting
 
 ![Next.js](https://img.shields.io/badge/Next.js-Production-black)
-![Node.js](https://img.shields.io/badge/Node.js-16%2B-green)
+![Node.js](https://img.shields.io/badge/Node.js-20%2B-green)
 ![cPanel](https://img.shields.io/badge/cPanel-Shared%20Hosting-orange)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
@@ -24,7 +24,7 @@ nextjs, cpanel, shared-hosting, nodejs, deployment, serverjs, next-config, produ
 ## Requirements
 
 - cPanel hosting with Node.js enabled
-- Node.js version 16 or higher
+- Node.js version 20 or higher
 - Access to cPanel File Manager or Git
 
 ## Project Structure
