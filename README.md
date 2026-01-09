@@ -57,7 +57,6 @@ nextjs, cpanel, shared-hosting, nodejs, deployment, serverjs, next-config, produ
   "build": "next build",
   "start": "NODE_ENV=production node server.js"
 }
-
 ## Use Cases
 
 - Hosting Next.js apps on shared hosting
