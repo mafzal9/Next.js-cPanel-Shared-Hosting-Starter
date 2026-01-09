@@ -53,10 +53,12 @@ nextjs, cpanel, shared-hosting, nodejs, deployment, serverjs, next-config, produ
 
 ## package.json Script Example
 
-```"scripts": {
+```
+"scripts": {
   "build": "next build",
   "start": "NODE_ENV=production node server.js"
-}```
+}
+```
 
 ## Use Cases
 
